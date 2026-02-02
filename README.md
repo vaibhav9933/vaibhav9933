@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **vaibhavrahane36@gmail.com**
+- 📫 How to reach me 1) **vaibhavrahane36@gmail.com**
+                      2) **portfolio-gamma-neon-oi1fllbxv4.vercel.app**
 
 - 📄 Know about my experiences [Learner](Learner)
 
